@@ -1,0 +1,44 @@
+.nav-left {
+    font-size: 14px;
+    padding: 5px;
+    margin-left: 5px;
+    font-family: arial,sans-serif;
+}
+
+.nav-right {
+    font-size: 14px;
+    padding: 5px;
+    margin-left: 5px;
+    font-family: arial,sans-serif;
+}
+
+.nav-right:hover {
+    text-decoration: underline;
+}
+
+.nav-left:hover {
+    text-decoration: underline;
+}
+
+.nav-bottom-left {
+    color: #70757a;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    padding-left: 35px
+}
+
+.nav-bottom-right {
+    font-size: 14px;
+    font-family: arial,sans-serif;
+}
+
+.nav-bottom-right:hover {
+    text-decoration: underline;
+}
+
+.nav-bottom-left:hover {
+    text-decoration: underline;
+}
+
+
+
